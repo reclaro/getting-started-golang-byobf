@@ -30,6 +30,7 @@ Now point your browser at `http://localhost:5000` to see:
 Hello World!
 ```
 or at `http://localhost:5000/cities.json` to see:
+
 ```
 {"cities":["Amsterdam","Berlin","New York","San Francisco","Tokyo"]}
 ```
